@@ -1,6 +1,6 @@
 Automat==0.6.0
 PyDispatcher==2.0.5
-Scrapy==1.4.0
+Scrapy==2.11.1
 ScrapyElasticSearch==0.9.1
 Twisted==17.5.0
 argparse==1.2.1
@@ -11,7 +11,7 @@ backports.functools-lru-cache==1.2.1
 cffi==1.10.0
 configparser==3.5.0
 constantly==15.1.0
-cryptography==2.3
+cryptography==42.0.2
 cssselect==1.0.1
 elasticsearch==6.3.1
 enum34==1.1.6
@@ -30,7 +30,7 @@ pyOpenSSL==17.5.0
 pyasn1==0.2.3
 pyasn1-modules==0.0.9
 pycparser==2.17
-pylint==1.6.4
+pylint==2.6.1
 python-igraph==0.7.1.post6
 python-ntlm3==1.0.2
 queuelib==1.4.2
