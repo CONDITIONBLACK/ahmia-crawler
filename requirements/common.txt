@@ -1,6 +1,6 @@
 Automat==0.6.0
 PyDispatcher==2.0.5
-Scrapy==1.4.0
+Scrapy==2.14.0
 ScrapyElasticSearch==0.9.1
 Twisted==17.5.0
 argparse==1.2.1
@@ -39,7 +39,7 @@ requests-ntlm==0.3.0
 service-identity==17.0.0
 simplejson==3.8.2
 six==1.10.0
-urllib3>=1.24.2
+urllib3>=2.6.3
 w3lib==1.17.0
 wrapt==1.10.8
 zope.interface==4.4.2
